@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-    <img src="./images/LDK_avatar.gif" width="150" height="150" />
+    <img src="./images/ldk_avatar.gif" width="150" height="150" />
 
 </div>
 
