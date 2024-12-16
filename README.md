@@ -11,7 +11,7 @@ I’ve always identified as a “daft student” myself, someone who craves more
 </td>
     <td align="center" valign="middle">
 
-![My 3D Avatar](https://media.discordapp.net/attachments/1318015026098864198/1318022870282010715/Foundever_orb_4.gif?width=200&height=200)
+![My 3D Avatar]([https://media.discordapp.net/attachments/1318015026098864198/1318022870282010715/Foundever_orb_4.gif](https://cdn.discordapp.com/attachments/1318015026098864198/1318022870282010715/Foundever_orb_4.gif?ex=6760cff3&is=675f7e73&hm=22217e171b1b658502288c50b556473e25a492a0b2ac84631717d4866cef01e0&)?width=200&height=200)
 
     </td>
   </tr>
