@@ -1,17 +1,18 @@
 # 💫 About Me:
 
-<div align="center">
-    <img src="./images/ldk_avatar.gif" width="150" height="150" />
+<table>
+  <tr>
+    <td>
+      <img src="./images/ldk_avatar.gif" width="150" height="150" alt="3D Avatar GIF"/>
+    </td>
+    <td>
+      <strong>👋 About Me</strong><br><br>
+      Hey there! I’m Dhani. I currently serve as the Global Head of Learning Platforms and Data Strategy at a world learning company in CX and AI. Though my day-to-day work often focuses on leveraging technology to make learning more accessible and engaging, my broader ambition extends far beyond the traditional boundaries of EdTech.<br><br>
+      I’ve always identified as a “daft student” myself, someone who craves more intuitive, adaptive learning methods that go beyond traditional classroom constraints. This personal connection fuels my mission: I want to make learning so natural, accessible, and dynamic that anyone, anywhere, can confidently master new skills. From students in remote communities to seasoned professionals seeking to upskill, my goal is to ensure that no one is left behind in the knowledge economy.
+    </td>
+  </tr>
+</table>
 
-</div>
-
-## 👋 About Me
-
-Hey there! I’m Dhani. I currently serve as the Global Head of Learning Platforms and Data Strategy at a world learning company in CX and AI. Though my day-to-day work often focuses on leveraging technology to make learning more accessible and engaging, my broader ambition extends far beyond the traditional boundaries of EdTech.
-
-I’ve always identified as a “daft student” myself, someone who craves more intuitive, adaptive learning methods that go beyond traditional classroom constraints. This personal connection fuels my mission: I want to make learning so natural, accessible, and dynamic that anyone, anywhere, can confidently master new skills. From students in remote communities to seasoned professionals seeking to upskill, my goal is to ensure that no one is left behind in the knowledge economy.
-
----
 
 
 ## 🚀 What I’m Up To
